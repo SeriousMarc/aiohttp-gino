@@ -1,0 +1,3 @@
+site_name: 'Skeleton'
+
+database_uri: postgresql://user:pswd@localhost/database_name
